@@ -7,4 +7,7 @@
 
 
 # we only care about browsers with full support for ES2015
-Chrome >= 61     # let's keep it simple by picking just one representative from https://caniuse.com/#feat=es6
+Chrome >= 71     # let's keep it simple by picking just one desktop browser with full ES2015 support https://caniuse.com/#feat=es6
+Android >= 56
+ios_saf >= 11
+safari >= 11
